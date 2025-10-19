@@ -10,6 +10,6 @@
   "largeIcon": "assets/logo_big.png",
   "splashBackground": "assets/splash_1080p.png",
   "bgImage": "assets/splash_1080p.png",
-  "iconColor": "black",
+  "iconColor": "#000000",
   "supportGIP": true
 }
